@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.onErrorField {
+  color: red;
+  background-color: red;
+}
+
+.onOKField {
+  color: green;
+  background-color: green;
+}
